@@ -1,0 +1,5 @@
+.idea/$CACHE_FILE$
+.idea/workspace.xml
+.idea/inspectionProfiles/*
+.DS_Store
+.bundle
