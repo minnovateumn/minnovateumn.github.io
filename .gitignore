@@ -1,6 +1,7 @@
 .idea/$CACHE_FILE$
 .idea/workspace.xml
 .idea/inspectionProfiles/*
+.idea/sonarlint
 .DS_Store
 .bundle
 _site
